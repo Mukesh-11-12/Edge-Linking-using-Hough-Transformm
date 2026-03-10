@@ -23,8 +23,8 @@ Display the result.
 
 ## Program:
 ```
-DEVELOPED BY: AJAYRAJA RATHINAM T
-REGISTER NUMBER: 212224240006
+DEVELOPED BY: MUKESH D
+REGISTER NUMBER: 212224040204
 ```
 
 ### Read image and convert it to grayscale image
@@ -76,21 +76,22 @@ plt.show()
 ## Output
 
 ### Input image and grayscale image
-<img width="374" height="507" alt="image" src="https://github.com/user-attachments/assets/fc241721-b67a-4c8b-8acc-873c6a610230" />
-<img width="374" height="506" alt="image" src="https://github.com/user-attachments/assets/cf75c31f-9041-4175-9796-4dcf95b82033" />
+<img width="608" height="829" alt="image" src="https://github.com/user-attachments/assets/658db62a-f843-44b3-b73b-d34056b337c0" />
+<img width="618" height="823" alt="image" src="https://github.com/user-attachments/assets/60fa31bb-fac2-4a4e-a2f6-f4ab4045ed6e" />
 
 
 
 <br>
 
 ### Canny Edge detector output
-<img width="372" height="504" alt="image" src="https://github.com/user-attachments/assets/a18589a9-b510-4a35-8a40-15f7e1366765" />
+<img width="374" height="516" alt="image" src="https://github.com/user-attachments/assets/6629e272-a27c-4629-b4a2-4dc97fb8a5ba" />
 
 
 <br>
 
 ### Display the result of Hough transform
-<img width="372" height="507" alt="image" src="https://github.com/user-attachments/assets/aa5724cd-3b61-431a-9852-bd9b66d7aad7" />
+
+<img width="367" height="522" alt="image" src="https://github.com/user-attachments/assets/d4211d77-6a93-4556-8a77-43443a9e0cac" />
 
 
 <br>
